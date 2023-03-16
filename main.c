@@ -10,3 +10,4 @@ This line is added to main branch.
 
 This is the line from my feature branch.
 
+Bug is fixed.
